@@ -1,0 +1,13 @@
+private/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.wav
+*.pdf
+*.zip
+__pycache__/
+*.pyc
+.env
+secrets/
